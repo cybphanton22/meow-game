@@ -1,2 +1,1 @@
-# meow-game
-meow
+just a game with cat
